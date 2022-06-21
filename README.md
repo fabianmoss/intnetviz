@@ -9,5 +9,5 @@ The tool is online, click on the link above to try it! To know more about this p
 
 1. Download or clone the files
 2. In the terminal, move to "intnetviz" folder.
-3. Execute ```python -m SimpleHTTPServer 8888 &```
+3. Execute ```python3 -m http.server 8888 &```
 4. In the browser, go to ```http://localhost:8888/```
